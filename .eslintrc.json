@@ -1,10 +1,11 @@
 {
 	"env": {
-	  "browser": true,
-	  "node": true
+		"es6": true,
+		"browser": true,
+		"node": true
 	},
-	"extends": "xo",
-	"plugins": [
-	  "xo"
-	]
+	"extends": [
+		"xo"
+	],
+	"parser": "babel-eslint"
 }
