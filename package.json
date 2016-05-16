@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/geraldyeo/koa-cms-boilerplate.git"
+    "url": "https://github.com/geraldyeo/koa2-cms-boilerplate.git"
   },
   "author": "Gerald Yeo <gerald.yeo@gmail.com>",
   "license": "MIT",
